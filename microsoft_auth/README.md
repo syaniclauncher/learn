@@ -4,4 +4,4 @@ These notebooks contain examples of Microsoft authorization for a Minecraft Laun
 > [!WARNING]
 > **NEVER use the OAuth Client IDs provided in the examples**
 >
->  They are for demonstration & educational purposes only and belong to their respective launchers.
+>  They are for demonstration & educational purposes only and belong to their respective launchers. Always use your own OAuth Client ID when building your own Minecraft Launcher.
